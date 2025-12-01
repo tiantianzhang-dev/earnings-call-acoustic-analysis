@@ -176,8 +176,8 @@ This project is licensed under the MIT License \- see LICENSE file for details.
 ## **Contact**
 
 * **Author**: Tiantian Zhang  
-* **Email**: \[t.zhang.28@rug.student.nl\]  
-* **GitHub**: [@anit-z](https://github.com/anit-z)
+* **Email**: \[zhang_tian_tian@outlook.com\]  
+* **GitHub**: [@tiantianzhang-dev](https://github.com/anit-z)
 
 ## **Future Work**
 
