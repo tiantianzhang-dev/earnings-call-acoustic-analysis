@@ -11,6 +11,7 @@ This repository includes the implementation for a master's thesis that examined 
 The study provides an empirical method for integrating multimodal acoustic semantic analysis with financial outcome indicators, while openly acknowledging the limitations imposed by small sample and data imbalance. Future research is recommended to use larger datasets and multimodal fusion mechanisms. The findings highlight the potential for voice technology to integrate into credit risk analysis and capital market domains. 
 
 **Live Demo**: [Earnings Call Acoustic Analysis Demonstrator](https://earnings-call-acoustic-analysis-qryia9evgh5zebp5eysjkg.streamlit.app/)
+**The thesis can be found here**: [Exploratory Analysis of Correlation between Earnings Call Acoustic Features and Credit Ratings: A FinBERT Validation Approach]([https://earnings-call-acoustic-analysis-qryia9evgh5zebp5eysjkg.streamlit.app/](https://campus-fryslan.studenttheses.ub.rug.nl/682/)
 
 ## **Key Features**
 
