@@ -270,7 +270,7 @@ def main():
             2. Add your processed data files to the repository
             3. Deploy your own instance on Streamlit Cloud
             
-            Ratings data is loaded from: [GitHub Repository](https://github.com/anit-z/earnings-call-acoustic-analysis/blob/main/data/raw/ratings/ratings_metadata.csv)
+            Ratings data is loaded from: [GitHub Repository](https://github.com/tiantianzhang-dev/earnings-call-acoustic-analysis/blob/main/data/raw/ratings/ratings_metadata.csv)
             """)
     
     # Show current paths in sidebar for debugging
